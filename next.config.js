@@ -1,4 +1,4 @@
-import('next').NextConfig */
+import('next').NextConfig
 const nextConfig = {
   experimental: {
     serverActions: {
