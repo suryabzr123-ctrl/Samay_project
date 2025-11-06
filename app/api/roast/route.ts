@@ -1,4 +1,4 @@
-import { kv } from '@/lib/kv'
+import { kv } from '../../../lib/kv'
 export const runtime = 'edge'
 const KEY = 'roasts:v1'
 
